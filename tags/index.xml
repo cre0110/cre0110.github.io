@@ -6,6 +6,63 @@
         <description>Recent content in Tags on Legend.的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Legend.</copyright><atom:link href="https://cre0110.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Legend.</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 17:21:25 +0800</lastBuildDate><atom:link href="https://cre0110.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bootstrap5</title>
+        <link>https://cre0110.github.io/tags/bootstrap5/</link>
+        <pubDate>Sun, 21 Sep 2025 17:21:25 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/bootstrap5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Flask</title>
+        <link>https://cre0110.github.io/tags/flask/</link>
+        <pubDate>Sun, 21 Sep 2025 17:21:25 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/flask/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Front-End</title>
+        <link>https://cre0110.github.io/tags/front-end/</link>
+        <pubDate>Sun, 21 Sep 2025 17:21:25 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/front-end/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Python</title>
+        <link>https://cre0110.github.io/tags/python/</link>
+        <pubDate>Sun, 21 Sep 2025 17:21:25 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/python/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SQLite</title>
+        <link>https://cre0110.github.io/tags/sqlite/</link>
+        <pubDate>Sun, 21 Sep 2025 17:21:25 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/sqlite/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cmd</title>
+        <link>https://cre0110.github.io/tags/cmd/</link>
+        <pubDate>Sun, 21 Sep 2025 15:23:29 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/cmd/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hugo</title>
+        <link>https://cre0110.github.io/tags/hugo/</link>
+        <pubDate>Sun, 21 Sep 2025 15:23:29 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/tags/hugo/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

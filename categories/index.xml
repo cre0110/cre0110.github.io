@@ -6,13 +6,110 @@
         <description>Recent content in Categories on Legend.的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Legend.</copyright><atom:link href="https://cre0110.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://cre0110.github.io/categories/test/</link>
+        <copyright>Legend.</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 17:21:25 +0800</lastBuildDate><atom:link href="https://cre0110.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Flask</title>
+        <link>https://cre0110.github.io/categories/flask/</link>
+        <pubDate>Sun, 21 Sep 2025 17:21:25 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/flask/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/flask/flask.png" alt="Featured image of post Flask" /&gt;</description>
+        </item>
+        <item>
+        <title>Other</title>
+        <link>https://cre0110.github.io/categories/other/</link>
+        <pubDate>Sun, 21 Sep 2025 15:23:29 +0800</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/other/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/other/other.jpg" alt="Featured image of post Other" /&gt;</description>
+        </item>
+        <item>
+        <title>AI</title>
+        <link>https://cre0110.github.io/categories/ai/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cre0110.github.io/categories/test/</guid>
-        <description>&lt;img src="https://cre0110.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://cre0110.github.io/categories/ai/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/ai/ai.png" alt="Featured image of post AI" /&gt;</description>
+        </item>
+        <item>
+        <title>Algorithm</title>
+        <link>https://cre0110.github.io/categories/algorithms/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/algorithms/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/algorithms/algorithm.png" alt="Featured image of post Algorithm" /&gt;</description>
+        </item>
+        <item>
+        <title>C&#43;&#43;</title>
+        <link>https://cre0110.github.io/categories/c&#43;&#43;/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/c&#43;&#43;/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/c&#43;&#43;/cpp.png" alt="Featured image of post C&#43;&#43;" /&gt;</description>
+        </item>
+        <item>
+        <title>Front-end</title>
+        <link>https://cre0110.github.io/categories/front-end/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/front-end/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/front-end/h5.jpg" alt="Featured image of post Front-end" /&gt;</description>
+        </item>
+        <item>
+        <title>Git</title>
+        <link>https://cre0110.github.io/categories/git/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/git/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/git/git.png" alt="Featured image of post Git" /&gt;</description>
+        </item>
+        <item>
+        <title>Godot</title>
+        <link>https://cre0110.github.io/categories/godot/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/godot/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/godot/godot.png" alt="Featured image of post Godot" /&gt;</description>
+        </item>
+        <item>
+        <title>Linux</title>
+        <link>https://cre0110.github.io/categories/linux/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/linux/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/linux/linux.jpg" alt="Featured image of post Linux" /&gt;</description>
+        </item>
+        <item>
+        <title>Matplotlib</title>
+        <link>https://cre0110.github.io/categories/matplotlib/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/matplotlib/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/matplotlib/matplotlib.png" alt="Featured image of post Matplotlib" /&gt;</description>
+        </item>
+        <item>
+        <title>Numpy</title>
+        <link>https://cre0110.github.io/categories/numpy/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/numpy/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/numpy/numpy.png" alt="Featured image of post Numpy" /&gt;</description>
+        </item>
+        <item>
+        <title>Python</title>
+        <link>https://cre0110.github.io/categories/python/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/python/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/python/python.png" alt="Featured image of post Python" /&gt;</description>
+        </item>
+        <item>
+        <title>Scipy</title>
+        <link>https://cre0110.github.io/categories/scipy/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cre0110.github.io/categories/scipy/</guid>
+        <description>&lt;img src="https://cre0110.github.io/categories/scipy/scipy.png" alt="Featured image of post Scipy" /&gt;</description>
         </item>
         
     </channel>
